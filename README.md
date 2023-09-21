@@ -6,7 +6,7 @@ Saya seorang **Fullstack Web Developer** <br>
  
 Saya juga memiliki gelar Certified Developer Dari AlibabaCloud pada 2023.<br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/riski-ahmad-ilham-522a49234/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/riski-ahmad-ilham-522a49234/) ku ya.
  
 ### Github Statistic
 <p align="left">
