@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riskiai&label=Profile%20views&color=0e75b6&style=flat" alt="riskiai" /> </p>
 
-- 🔭 I’m currently working on **resep cook**
+- 🔭 I’m currently working on **website resep cook**
 
 - 🌱 I’m currently learning **Laravel 10**
 
