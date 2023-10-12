@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel 10**
 
-- 👨‍💻 All of my projects are available at [https://riskiai.github.io/riskiproject.gihtub.io/](https://riskiai.github.io/riskiproject.gihtub.io/)
+- 👨‍💻 All of my portfolio [https://riskiproject-gihtub-io-7u7c.vercel.app/](https://riskiproject-gihtub-io-7u7c.vercel.app/)
 
 - 💬 Ask me about **Website, MEARN**
 
