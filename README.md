@@ -71,7 +71,7 @@
 <hr/>
 
 <h3 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Iner&weight=600&size=30&duration=7000&pause=1000&center=true&random=false&width=500&height=100&lines=Thanks+For+Visiting!%E2%9C%8C;Shoot+me+a+message+on+Linkedin!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Iner&weight=600&size=30&duration=7000&pause=1000&center=true&random=false&width=600&height=100&lines=Thanks+For+Visiting!%E2%9C%8C;Shoot+me+a+message+on+Linkedin!" alt="Typing SVG" /></a>
 </h3>
 
 <br/>
