@@ -57,7 +57,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <div align=center>
+ <div align=center style="background-color: #1b1f24;>
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riskiai&show_icons=true&locale=en&layout=compact&bg_color=1b1f24" alt="riskiai" />
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=riskiai&show_icons=true&locale=en&bg_color=1b1f24" alt="riskiai" /> 
   <br/>
