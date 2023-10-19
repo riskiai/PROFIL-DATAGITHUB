@@ -1,4 +1,4 @@
-<a align=right href="https://visitorbadge.io/status?path=riskiai"><img src="https://api.visitorbadge.io/api/visitors?path=riskiai&label=VISITOR&countColor=%23263759" /></a>
+<a align=left href="https://visitorbadge.io/status?path=riskiai"><img src="https://api.visitorbadge.io/api/visitors?path=riskiai&label=VISITORS&countColor=%23263759" /></a>
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Iner&weight=600&size=30&duration=7000&pause=1000&center=true&random=false&width=500&height=100&lines=Hi+There!%F0%9F%96%90;I'm+Riski+Ahmad+Ilham!" alt="Typing SVG" /></a>
