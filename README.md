@@ -61,7 +61,7 @@
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riskiai&show_icons=true&locale=en&layout=compact&bg_color=1b1f24" alt="riskiai" />
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=riskiai&show_icons=true&locale=en&bg_color=1b1f24" alt="riskiai" /> 
   <br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riskiai& alt="riskiai" />
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riskiai&" alt="riskiai" /></p>
 </div>
 
 </div>
