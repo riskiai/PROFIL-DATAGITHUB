@@ -57,8 +57,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center" ">
-  <img width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riskiai&show_icons=true&locale=en&layout=compact" alt="riskiai" />
-  <img width="390" align="center" src="https://github-readme-stats.vercel.app/api?username=riskiai&show_icons=true&locale=en" alt="riskiai" /> 
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riskiai&show_icons=true&locale=en&layout=compact&bg_color=#000000" alt="riskiai" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=riskiai&show_icons=true&locale=en&bg_color=#000000" alt="riskiai" /> 
   <br/>
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=riskiai&theme=dark" alt="GitHub Streak" /></a>
 </div>
