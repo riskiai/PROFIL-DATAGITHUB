@@ -57,7 +57,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riskiai&show_icons=true&locale=en&layout=compact" alt="riskiai" />
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=riskiai&show_icons=true&locale=en" alt="riskiai" /> 
   <br/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riskiai&" alt="riskiai" />
