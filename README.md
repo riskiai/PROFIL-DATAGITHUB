@@ -56,15 +56,13 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
- <div align=center>
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riskiai&show_icons=true&locale=en&layout=compact&bg_color=1b1f24" alt="riskiai" />
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=riskiai&show_icons=true&locale=en&bg_color=1b1f24" alt="riskiai" /> 
+<div align="center" style="background-color: #1b1f24;">
+  <img width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riskiai&show_icons=true&locale=en&layout=compact" alt="riskiai" />
+  <img width="390" align="center" src="https://github-readme-stats.vercel.app/api?username=riskiai&show_icons=true&locale=en" alt="riskiai" /> 
   <br/>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riskiai&bg_color=1b1f24" alt="riskiai" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riskiai" alt="riskiai" /></p>
 </div>
 
-</div>
 
 
 <br/><br/>
