@@ -60,7 +60,10 @@
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riskiai&show_icons=true&locale=en&layout=compact&bg_color=1b1f24" alt="riskiai" />
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=riskiai&show_icons=true&locale=en&bg_color=1b1f24" alt="riskiai" /> 
   <br/>
-   <img src="https://streak-stats.demolab.com?user=riskiai&theme=default" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+</picture>
 </div>
 
 
