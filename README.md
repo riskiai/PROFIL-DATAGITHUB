@@ -60,7 +60,7 @@
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riskiai&show_icons=true&locale=en&layout=compact&bg_color=1b1f24" alt="riskiai" />
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=riskiai&show_icons=true&locale=en&bg_color=1b1f24" alt="riskiai" /> 
   <br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=riskiai&theme=transparent" alt="GitHub Streak" /></a>
+
 </div>
 
 
