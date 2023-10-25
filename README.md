@@ -57,8 +57,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
- <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=riskiai&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats">
-   <img width=380 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riskiai&theme=dark&hide_border=true" alt="GitHub Streak">
+ <img width=390 align="center" margin-left=20 src="https://github-readme-stats.vercel.app/api?username=riskiai&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats">
+  <img width=380 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riskiai&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages">
+<!--    <img width=380 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riskiai&theme=dark&hide_border=true" alt="GitHub Streak"> -->
   <br/>
 
 </div>
